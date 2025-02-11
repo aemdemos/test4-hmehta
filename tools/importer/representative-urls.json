@@ -1,0 +1,40 @@
+{
+  "originUrl": "https://fortstreet-p.schools.nsw.gov.au/news",
+  "totalUrls": 0,
+  "urls": [
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/",
+      "source": "NAV"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/learning-at-our-school.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/for-parents.html",
+      "source": "NAV"
+    },
+    {
+      "url": "https://fortstreet-p.schools.nsw.gov.au/contact-us.html",
+      "source": "NAV"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {}
+  }
+}
