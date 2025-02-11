@@ -155,6 +155,156 @@
     },
     {
       "path": "tools/importer/mappings/news/2022/3/house-captains.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/3/balmain-zone-swimming-carnival.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/3/ducks-and-helpers.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/3/premier-s-reading-challenge-2022.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/3/welcome-to-the-fsps-library.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/leadership-team-2022.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/new-teachers.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/reading-success.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/stewart-house.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/strings-ensemble.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/captain-elections.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/2/fsps-swimming-carnival.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/12/covid-19-update-fort-street-public-school0.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/12/farewells.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/12/covid-19-update-fort-street-public-school.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/11/noisy-miners.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/11/the-fort-street-fab-5-values.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/11/the-premier-visits.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/11/zach.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/11/tell-them-from-me.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/10/children-s-week-2021.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/10/library-times.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/9/covid-19-update-fort-street-public-school-operational.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/9/fort-st-public-school-non-operational.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/farewell.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/kindy-excursion.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/postponed.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/speech-finals.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/multicultural-perspectives.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/strings-recital.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/mia--sam-and-rosie-make-every-day-count.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/6/pm-ecollection.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/feral-futures.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/library-lunch.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/run4fun-fundraiser.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/zone-cross-country.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/baking-biscuits.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/crunch-sip.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/national-simultaneous-storytime-2021.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/premier-s-reading-challenge-update.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/speech-pathology.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/naplan-and-reach-assessments.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/kim-s-adventure.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/debating-against-stanmore.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/fsps-cross-country-results.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/happy-mother-s-day.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/5/kindergarten-2022-information-night.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/4/attendance-awards.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/4/community-programs.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/4/debating-workshop.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2021/4/fsps-kindergarten-2022-information-evening.html.json"
     }
   ]
 }
