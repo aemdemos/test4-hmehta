@@ -1,0 +1,160 @@
+{
+  "mappings": [
+    {
+      "path": "tools/importer/mappings/nav.json"
+    },
+    {
+      "path": "tools/importer/mappings/footer.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/10/public-speaking-success.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/8/education-week-celebrations.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/7/conservatorium-of-music-high-school-collaboration.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/5/zone-cross-country-success.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/4/harmony-day---everyone-belongs.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/2/the-best-education-money-can-t-buy.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/2/sharing-memories-with-our-community0.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/2/free-internet-for-eligible-families-.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/2/every-day-matters-.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2024/2/back-to-school-webinar-for-parents-and-carers.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/12/end-of-year-concert---atlantis.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/11/stage-3-stop-motion-animation-fun.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/9/fort-street-public-school-project-update.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/9/public-speaking-competition.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/8/world-cup.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/anzac-sticker-designs.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/balmain-pssa-cross-country-carnival.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/multicultural-speech-finals.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/what-s-an-arco-.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/chess-club.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/6/national-simultaneous-storytime-2023.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/5/kids--lit-quiz.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/easter-hat-parade-info.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/harmony-day-writing.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/premier-s-reading-challenge-instructions.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/great-time-at-the-maritime.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/stem-challenge.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/3/the-leadership-team.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/2/the-bush-band-is-coming-.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/2/why-wellbeing-is-so-good-at-fsps.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2023/2/swimming-carnival.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/11/conservatorium-visit.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/10/p-c-disco-coming-soon.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/10/public-speaking-finals.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/8/premier-s-reading-challenge-closing-soon.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/7/100-days-video.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/7/australian-museum.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/7/test.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/6/kindy-information-night.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/6/multicultural-perspectives-public-speaking.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/6/bpssa-cross-country-carnival.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/6/debating-success.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/6/musica-viva.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/5/cooking-with-rotary.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/5/library-lunch.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/5/national-reconciliation-week-2022.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/5/walk-safely-to-school-day.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/5/kindy-information-evening.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/4/anzac-assembly.html.json"
+    },
+    {
+      "path": "tools/importer/mappings/news/2022/3/house-captains.html.json"
+    }
+  ]
+}
